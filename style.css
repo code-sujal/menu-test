@@ -235,8 +235,7 @@ body {
     background: var(--bg-card);
     padding: var(--space-6);
     border-bottom: 1px solid var(--border-secondary);
-    position: sticky;
-    top: 0;
+    
     z-index: 100;
     backdrop-filter: blur(10px);
 }
@@ -400,7 +399,7 @@ body {
     background: var(--bg-card);
     padding: var(--space-4) 0;
     border-bottom: 1px solid var(--border-secondary);
-    position: sticky;
+   
     top: 140px;
     z-index: 90;
 }
